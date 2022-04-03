@@ -1,0 +1,14 @@
+C:\Users\99470\source\repos\1422ClassWork\1422ClassWork\bin\Debug\netcoreapp3.1\1422ClassWork.exe
+C:\Users\99470\source\repos\1422ClassWork\1422ClassWork\bin\Debug\netcoreapp3.1\1422ClassWork.deps.json
+C:\Users\99470\source\repos\1422ClassWork\1422ClassWork\bin\Debug\netcoreapp3.1\1422ClassWork.runtimeconfig.json
+C:\Users\99470\source\repos\1422ClassWork\1422ClassWork\bin\Debug\netcoreapp3.1\1422ClassWork.runtimeconfig.dev.json
+C:\Users\99470\source\repos\1422ClassWork\1422ClassWork\bin\Debug\netcoreapp3.1\1422ClassWork.dll
+C:\Users\99470\source\repos\1422ClassWork\1422ClassWork\bin\Debug\netcoreapp3.1\1422ClassWork.pdb
+C:\Users\99470\source\repos\1422ClassWork\1422ClassWork\obj\Debug\netcoreapp3.1\1422ClassWork.csproj.AssemblyReference.cache
+C:\Users\99470\source\repos\1422ClassWork\1422ClassWork\obj\Debug\netcoreapp3.1\1422ClassWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99470\source\repos\1422ClassWork\1422ClassWork\obj\Debug\netcoreapp3.1\1422ClassWork.AssemblyInfoInputs.cache
+C:\Users\99470\source\repos\1422ClassWork\1422ClassWork\obj\Debug\netcoreapp3.1\1422ClassWork.AssemblyInfo.cs
+C:\Users\99470\source\repos\1422ClassWork\1422ClassWork\obj\Debug\netcoreapp3.1\1422ClassWork.csproj.CoreCompileInputs.cache
+C:\Users\99470\source\repos\1422ClassWork\1422ClassWork\obj\Debug\netcoreapp3.1\1422ClassWork.dll
+C:\Users\99470\source\repos\1422ClassWork\1422ClassWork\obj\Debug\netcoreapp3.1\1422ClassWork.pdb
+C:\Users\99470\source\repos\1422ClassWork\1422ClassWork\obj\Debug\netcoreapp3.1\1422ClassWork.genruntimeconfig.cache
